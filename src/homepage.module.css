@@ -1,0 +1,239 @@
+.home {
+    background-color: #f4f0db;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .home .div {
+    background-color: #f4f0db;
+    height: 2612px;
+    overflow: hidden;
+    position: relative;
+    width: 1920px;
+  }
+  
+  .home .navbar {
+    height: 150px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1922px;
+  }
+  
+  .home .overlap-group {
+    background-color: #f4f0db;
+    height: 150px;
+    position: relative;
+    width: 1920px;
+  }
+  
+  .home .text-wrapper {
+    color: #000000;
+    font-family: "Courier Prime-Regular", Helvetica;
+    font-size: 50px;
+    font-weight: 400;
+    left: 52px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 47px;
+    white-space: nowrap;
+  }
+  
+  .home .footer {
+    background-color: transparent;
+    height: 274px;
+    left: 0;
+    position: absolute;
+    top: 2338px;
+    width: 1926px;
+  }
+  
+  .home .overlap {
+    background-color: #f4f0db;
+    height: 274px;
+    position: relative;
+    width: 1920px;
+  }
+  
+  .home .text-wrapper-2 {
+    color: #000000;
+    font-family: "Courier Prime-Regular", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    left: 82px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 94px;
+    white-space: nowrap;
+    width: 375px;
+  }
+  
+  .home .text-wrapper-3 {
+    color: #000000;
+    font-family: "Courier Prime-Regular", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    left: 82px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 32px;
+    white-space: nowrap;
+    width: 480px;
+  }
+  
+  .home .text-wrapper-4 {
+    color: #000000;
+    font-family: "Courier Prime-Regular", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    left: 82px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 62px;
+    white-space: nowrap;
+    width: 405px;
+  }
+  
+  .home .passion {
+    height: 697px;
+    left: 151px;
+    position: absolute;
+    top: 174px;
+    width: 813px;
+  }
+  
+  .home .text-wrapper-5 {
+    color: #000000;
+    font-family: "Courier Prime-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 541px;
+    white-space: nowrap;
+  }
+  
+  .home .my-pretty-rose-tree {
+    color: #000000;
+    font-family: "Courier Prime-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 576px;
+    width: 499px;
+  }
+  
+  .home .IMG {
+    height: 536px;
+    left: -4px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 817px;
+  }
+  
+  .home .biome {
+    height: 697px;
+    left: 151px;
+    position: absolute;
+    top: 918px;
+    width: 813px;
+  }
+  
+  .home .path {
+    height: 1062px;
+    left: 1151px;
+    position: absolute;
+    top: 174px;
+    width: 590px;
+  }
+  
+  .home .text-wrapper-6 {
+    color: #000000;
+    font-family: "Courier Prime-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 907px;
+    white-space: nowrap;
+  }
+  
+  .home .p {
+    color: #000000;
+    font-family: "Courier Prime-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 941px;
+    width: 499px;
+  }
+  
+  .home .img {
+    height: 903px;
+    left: -4px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 594px;
+  }
+  
+  .home .grace {
+    height: 1071px;
+    left: 1060px;
+    position: absolute;
+    top: 1267px;
+    width: 685px;
+  }
+  
+  .home .text-wrapper-7 {
+    color: #000000;
+    font-family: "Courier Prime-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 916px;
+    white-space: nowrap;
+  }
+  
+  .home .my-pretty-rose-tree-2 {
+    color: #000000;
+    font-family: "Courier Prime-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 950px;
+    width: 499px;
+  }
+  
+  .home .IMG-2 {
+    height: 912px;
+    left: -4px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 689px;
+  }
+  
