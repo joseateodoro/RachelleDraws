@@ -18,23 +18,23 @@ export default function ShowcasePage() {
           </div>
         </footer>
         <div className={classes.passion}>
-          <div className={classes["text-wrapper-5"]}>“passion - 2021”</div>
-          <p className={classes["my-pretty-rose-tree"]}>&#34;My Pretty Rose Tree&#34; is a poem written by the English poet William Blake. It was published as part of his collection Songs of Experience in 1794.</p>
+          <div className={classes["text-wrapper-5"]}>“Blossom”</div>
+          <p className={classes["my-pretty-rose-tree"]}>2024, done in oil on heavy duty, archival-quality natural cotton canvas</p>
           <img className={classes.IMG} alt="Img" src="./components/images/IMG_7906.jpg" />
         </div>
         <div className={classes.biome}>
-          <div className={classes["text-wrapper-5"]}>“biome - 2019”</div>
-          <p className={classes["my-pretty-rose-tree"]}>&#34;My Pretty Rose Tree&#34; is a poem written by the English poet William Blake. It was published as part of his collection Songs of Experience in 1794.</p>
+          <div className={classes["text-wrapper-5"]}>“The Meadow”</div>
+          <p className={classes["my-pretty-rose-tree"]}>2022, done in oil on 100% bleached cotton canvas, 23 cm x 30.5 cm</p>
           <img className={classes.IMG} alt="Img" src="./components/images/IMG_7977.jpg" />
         </div>
         <div className={classes.path}>
-          <div className={classes["text-wrapper-6"]}>“path - 2023”</div>
-          <p className={classes.p}>&#34;My Pretty Rose Tree&#34; is a poem written by the English poet William Blake. It was published as part of his collection Songs of Experience in 1794.</p>
+          <div className={classes["text-wrapper-6"]}>“Nonentity"</div>
+          <p className={classes.p}>2021, done in oil on heavy duty, archival-quality natural cotton canvas</p>
           <img className={classes.img} alt="Img" src="./components/images/IMG_8005.jpg" />
         </div>
         <div className={classes.grace}>
-          <div className={classes["text-wrapper-7"]}>“grace - 2023”</div>
-          <p className={classes["my-pretty-rose-tree-2"]}>&#34;My Pretty Rose Tree&#34; is a poem written by the English poet William Blake. It was published as part of his collection Songs of Experience in 1794.</p>
+          <div className={classes["text-wrapper-7"]}>“Her”</div>
+          <p className={classes["my-pretty-rose-tree-2"]}>2024, digital art</p>
           <img className={classes["IMG-2"]} alt="Img" src="./components/images/IMG_0012.PNG" />
         </div>
       </div>

@@ -15,8 +15,3 @@
 #### Showcase Page
 &emsp;&emsp;•	Showcases Art Pieces of Rachelle Draws with name, date, and description of each piece.
 </br></br>
-
-
-
-
-
